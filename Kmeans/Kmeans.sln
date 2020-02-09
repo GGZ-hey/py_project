@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kmeans", "Kmeans\Kmeans.pyproj", "{577ADD82-5E40-49E4-98D2-8C0C2595EB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577ADD82-5E40-49E4-98D2-8C0C2595EB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577ADD82-5E40-49E4-98D2-8C0C2595EB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7BFF21E-0ED9-43CF-873A-08A97138473A}
+	EndGlobalSection
+EndGlobal
